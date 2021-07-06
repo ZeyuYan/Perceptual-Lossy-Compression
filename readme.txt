@@ -2,6 +2,10 @@
 
 This the code for the paper "On Perceptual Lossy Compression: The Cost of Perceptual Reconstruction and An Optimal Training Framework, ICML, 2021"
 
+## Release notes
+
+This repository is a faithful reimplementation of (https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN) in PyTorch
+
 * you can download the dataset from
   - MNIST dataset: http://yann.lecun.com/exdb/mnist/
 
